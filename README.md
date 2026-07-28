@@ -478,5 +478,3 @@ RentoQuick Development Team
 Last Updated: June 2026
 
 For the latest updates and information, visit the GitHub Repository
-#   R e n t o Q u i c k  
- 
